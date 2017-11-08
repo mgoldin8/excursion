@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
@@ -14,7 +15,6 @@ h2 {
 
 h1, h2 {
   font-family: Verdana;
-  text-align: center;
   color: white;
 }
 
@@ -22,14 +22,12 @@ a {
   color: aquamarine;
   font-size: 16px;
   font-family: Verdana;
-  text-align: center;
 }
 
 p {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
-  text-align: center;
 }
 
 p.special {
